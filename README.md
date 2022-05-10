@@ -8,11 +8,15 @@ Parkinson's Disease Detection using Machine Learning.
 
 # Softwares & Environments Required
 •	Python 3.9
-•	Matplotlib
-•	Scipy & Scikit-Learn
+•	Jupyter Notebook
 •	Numpy
 •	Pandas
-•	Jupyter Notebook
+•	xgboost
+•	Matplotlib
+•	Scipy & Scikit-Learn
+•	sklearn
+•	imblearn
+
 
 # Installation
 For setting the Environment in MacBook:
