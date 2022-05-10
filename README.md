@@ -53,5 +53,8 @@ Adda Boost and XG Boost as layer 1 and K Neighbors as layer 2. Testing accuracy 
 
 ## Conclusion:
 
-On comparing the results from the various models, we found that 
+On comparing the results from the various models, we found that Random Forest and Bagging Classification models give best accuracies when 5 Fold cross validation is applied.
+
+**Random Forest and Bagging = 92.45%**
+
 
