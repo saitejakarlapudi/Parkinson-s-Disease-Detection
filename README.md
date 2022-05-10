@@ -39,14 +39,17 @@ Project execution is planned as follows:
 
 # Results
 
+Accuracy of Individual Models:
 <img src="https://user-images.githubusercontent.com/43872050/167531447-620c165b-4d17-44d1-90c8-0635531f7856.png" height="400" />
 
-![image](https://user-images.githubusercontent.com/43872050/167531447-620c165b-4d17-44d1-90c8-0635531f7856.png | width=100)
+Confusion Matrix Heat Map of KNN Model:
+<img src="https://user-images.githubusercontent.com/43872050/167531530-c3d28659-cac4-44a4-ab61-c33a7fb51304.png" height="400" />
 
-![image](https://user-images.githubusercontent.com/43872050/167531530-c3d28659-cac4-44a4-ab61-c33a7fb51304.png | width=100)
+Acuraccy of Models in 5 Fold Cross Validation:
+<img src="https://user-images.githubusercontent.com/43872050/167531666-362c60ce-2195-4f93-bd4a-512c7ecf81ff.png" height="400" />
 
-![image](https://user-images.githubusercontent.com/43872050/167531666-362c60ce-2195-4f93-bd4a-512c7ecf81ff.png | width=100)
-
+Ensemble method:
+Adda Boost and XG Boost as layer 1 and K Neighbors as layer 2. Testing accuracy of 83.01% is acquired using Ensemble
 
 ## Metrics
 
