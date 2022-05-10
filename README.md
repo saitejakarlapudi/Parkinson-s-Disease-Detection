@@ -22,7 +22,6 @@ Parkinson's Disease Detection using Machine Learning Algorithms.
 # Data
 The dataset can be downloaded from here.
 https://archive.ics.uci.edu/ml/datasets/parkinsons
-![image](https://user-images.githubusercontent.com/43872050/167530108-d11ec36b-04e9-4ac4-bb9f-8c37fd0bf07b.png)
 
 # About Project
 The main objective of this project is to build and train the model on the dataset to acquire the highest possible accuracy in detecting Parkinson’s disease. This helps the doctors to improve accuracy in diagnostics using voice recordings which involves less cost and non-invasive testing.
@@ -38,8 +37,16 @@ Project execution is planned as follows:
 • Building the model
 • Training & Testing the model
 
+![image](https://user-images.githubusercontent.com/43872050/167531202-7ad972e7-3a86-47d9-9245-d03069b67eaf.png)
 
 # Results
+
+![image](https://user-images.githubusercontent.com/43872050/167531447-620c165b-4d17-44d1-90c8-0635531f7856.png)
+
+![image](https://user-images.githubusercontent.com/43872050/167531530-c3d28659-cac4-44a4-ab61-c33a7fb51304.png)
+
+![image](https://user-images.githubusercontent.com/43872050/167531666-362c60ce-2195-4f93-bd4a-512c7ecf81ff.png)
+
 
 ## Metrics
 
