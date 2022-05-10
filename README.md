@@ -37,15 +37,13 @@ Project execution is planned as follows:
 • Building the model
 • Training & Testing the model
 
-![image](https://user-images.githubusercontent.com/43872050/167531202-7ad972e7-3a86-47d9-9245-d03069b67eaf.png)
-
 # Results
 
-![image](https://user-images.githubusercontent.com/43872050/167531447-620c165b-4d17-44d1-90c8-0635531f7856.png)
+![image](https://user-images.githubusercontent.com/43872050/167531447-620c165b-4d17-44d1-90c8-0635531f7856.png | width=100)
 
-![image](https://user-images.githubusercontent.com/43872050/167531530-c3d28659-cac4-44a4-ab61-c33a7fb51304.png)
+![image](https://user-images.githubusercontent.com/43872050/167531530-c3d28659-cac4-44a4-ab61-c33a7fb51304.png | width=100)
 
-![image](https://user-images.githubusercontent.com/43872050/167531666-362c60ce-2195-4f93-bd4a-512c7ecf81ff.png)
+![image](https://user-images.githubusercontent.com/43872050/167531666-362c60ce-2195-4f93-bd4a-512c7ecf81ff.png | width=100)
 
 
 ## Metrics
